@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 /**
   * main - Entry point
   * Return: Always 0
