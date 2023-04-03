@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strspn - Entry point
- * @s:return the number of bytes 
+ * @s:return the number of bytes
  * @accept: bytes from
  * Return: Always 0 (Success)
  */
